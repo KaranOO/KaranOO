@@ -11,22 +11,22 @@ I'm a graduate student, pursuing **B.Tech(CSE)** from **KIIT College of Engineer
 
 
 ## 🔗 Links
-[![website](./image/Instagram.svg)](https://www.instagram.com/karan.negi22/)
+[![website](./KaranOO/image/Instagram.svg)](https://www.instagram.com/karan.negi22/)
 &nbsp;
-[![website](./image/Linkedin.svg)](https://www.linkedin.com/in/karan-negi-959969224/) 
+[![website](./KaranOO/image/Linkedin.svg)](https://www.linkedin.com/in/karan-negi-959969224/) 
 &nbsp;
 [![website](./KaranOO/image/Telegram.svg)](https://telegram.me/Knegi_4143) 
 &nbsp;
-[![website](./image/Gmail.svg)](mailto:knegi4143@gmail.com) 
+[![website](./KaranOO/image/Gmail.svg)](mailto:knegi4143@gmail.com) 
 ## 🛠 Skills
 <div align="left">
-<img alt="VS code" width="40px" src="./image/VS_code.svg" style="padding-right:15px;" />
-<img alt="HTML5" width="40px" src="./image/HTML5.svg" style="padding-right:15px;" />
-<img alt="CSS3" width="40px" src="./image/CSS3.svg" style="padding-right:15px;" />
-<img alt="Git" width="40px" src="./image/Git.svg" style="padding-right:15px;" />
-<img alt="C" width="40px" src="./image/C.svg" style="padding-right:15px;"/>
-<img alt="Cpp" width="40px" src="./image/cpp.svg" style="padding-right:15px;"/>
-<img alt="Python" width="40px" src="./image/Python.svg"/>  
+<img alt="VS code" width="40px" src="./KaranOO/image/VS_code.svg" style="padding-right:15px;" />
+<img alt="HTML5" width="40px" src="./KaranOO/image/HTML5.svg" style="padding-right:15px;" />
+<img alt="CSS3" width="40px" src="./KaranOO/image/CSS3.svg" style="padding-right:15px;" />
+<img alt="Git" width="40px" src="./KaranOO/image/Git.svg" style="padding-right:15px;" />
+<img alt="C" width="40px" src="./KaranOO/image/C.svg" style="padding-right:15px;"/>
+<img alt="Cpp" width="40px" src="./KaranOO/image/cpp.svg" style="padding-right:15px;"/>
+<img alt="Python" width="40px" src="./KaranOO/image/Python.svg"/>  
 </div>
 
 
