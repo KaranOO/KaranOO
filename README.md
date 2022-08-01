@@ -12,25 +12,25 @@ Few wordss that defines me are **Tenacious**, **Positive** and **Creative**.
 
 
 ## 🔗 Links
-[![website](./KaranOO/image/Instagram.svg)](https://www.instagram.com/karan.negi22/)
+[![website](./image/Instagram.svg)](https://www.instagram.com/karan.negi22/)
 &nbsp;
-[![website](./KaranOO/image/Linkedin.svg)](https://www.linkedin.com/in/karan-negi-959969224/) 
+[![website](./image/Linkedin.svg)](https://www.linkedin.com/in/karan-negi-959969224/) 
 &nbsp;
-[![website](./KaranOO/image/Telegram.svg)](https://telegram.me/Knegi_4143) 
+[![website](./image/Telegram.svg)](https://telegram.me/Knegi_4143) 
 &nbsp;
-[![website](./KaranOO/image/Gmail.svg)](mailto:knegi4143@gmail.com) 
+[![website](./image/Gmail.svg)](mailto:knegi4143@gmail.com) 
 &nbsp;
-[![website](./KaranOO/image/discord.svg)](https://discord.com/channels/KR37#2902) 
+[![website](./image/discord.svg)](https://discord.com/channels/KR37#2902) 
 
 ## 🛠 Skills
 <div align="left">
-<img alt="VS code" width="40px" src="./KaranOO/image/VS_code.svg" style="padding-right:15px;" />
-<img alt="HTML5" width="40px" src="./KaranOO/image/HTML5.svg" style="padding-right:15px;" />
-<img alt="CSS3" width="40px" src="./KaranOO/image/CSS3.svg" style="padding-right:15px;" />
-<img alt="Git" width="40px" src="./KaranOO/image/Git.svg" style="padding-right:15px;" />
-<img alt="C" width="40px" src="./KaranOO/image/C.svg" style="padding-right:15px;"/>
-<img alt="Cpp" width="40px" src="./KaranOO/image/cpp.svg" style="padding-right:15px;"/>
-<img alt="Python" width="40px" src="./KaranOO/image/Python.svg"/>  
+<img alt="VS code" width="40px" src="./image/VS_code.svg" style="padding-right:15px;" />
+<img alt="HTML5" width="40px" src="./image/HTML5.svg" style="padding-right:15px;" />
+<img alt="CSS3" width="40px" src="./image/CSS3.svg" style="padding-right:15px;" />
+<img alt="Git" width="40px" src="./image/Git.svg" style="padding-right:15px;" />
+<img alt="C" width="40px" src="./image/C.svg" style="padding-right:15px;"/>
+<img alt="Cpp" width="40px" src="./image/cpp.svg" style="padding-right:15px;"/>
+<img alt="Python" width="40px" src="./image/Python.svg"/>  
 </div>
 
 ## :spades: Status
