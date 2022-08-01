@@ -7,7 +7,8 @@
 It was closed down. You know why did the GYM close down? Because it just didn't work out! :rofl:
 
 ## 🚀 About Me
-I'm a graduate student, pursuing **B.Tech(CSE)** from **KIIT College of Engineering**, Sohna Road.
+I'm a student, pursuing **B.Tech(CSE)** from **KIIT College of Engineering**, Sohna Road.
+Few wordss that defines me are **Tenacious**, **Positive** and **Creative**.
 
 
 ## 🔗 Links
@@ -18,6 +19,9 @@ I'm a graduate student, pursuing **B.Tech(CSE)** from **KIIT College of Engineer
 [![website](./KaranOO/image/Telegram.svg)](https://telegram.me/Knegi_4143) 
 &nbsp;
 [![website](./KaranOO/image/Gmail.svg)](mailto:knegi4143@gmail.com) 
+&nbsp;
+[![website](./KaranOO/image/discord.svg)](https://discord.com/channels/KR37#2902) 
+
 ## 🛠 Skills
 <div align="left">
 <img alt="VS code" width="40px" src="./KaranOO/image/VS_code.svg" style="padding-right:15px;" />
@@ -29,6 +33,8 @@ I'm a graduate student, pursuing **B.Tech(CSE)** from **KIIT College of Engineer
 <img alt="Python" width="40px" src="./KaranOO/image/Python.svg"/>  
 </div>
 
+## :spades: Status
+- Open for intern or collaboration on any project work.
 
 
 
