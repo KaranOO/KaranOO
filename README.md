@@ -15,7 +15,7 @@ I'm a graduate student, pursuing **B.Tech(CSE)** from **KIIT College of Engineer
 &nbsp;
 [![website](./image/Linkedin.svg)](https://www.linkedin.com/in/karan-negi-959969224/) 
 &nbsp;
-[![website](./image/Telegram.svg)](https://telegram.me/Knegi_4143) 
+[![website](./KaranOO/image/Telegram.svg)](https://telegram.me/Knegi_4143) 
 &nbsp;
 [![website](./image/Gmail.svg)](mailto:knegi4143@gmail.com) 
 ## 🛠 Skills
