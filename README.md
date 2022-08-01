@@ -8,6 +8,7 @@ It was closed down. You know why did the GYM close down? Because it just didn't 
 
 ## 🚀 About Me
 I'm a student, pursuing **B.Tech(CSE)** from **KIIT College of Engineering**, Sohna Road.
+
 Few wordss that defines me are **Tenacious**, **Positive** and **Creative**.
 
 
