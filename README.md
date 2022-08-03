@@ -1,15 +1,15 @@
-<!-- ### Hi there 👋 -->
+# 😃 Hey There! 👋
 
-# Hi, I'm Karan! 👋
-
-:blush: Welcome to my profile. :smiley: Hey, You know what, lemme tell you a secret... The other day I went to gym.
-
-It was closed down. You know why did the GYM close down? Because it just didn't work out! :rofl:
+Welcome to my profile. 
 
 ## 🚀 About Me
-I'm a student, pursuing **B.Tech(CSE)** from **KIIT College of Engineering**, Sohna Road.
+🎓  I'm Karan Negi ,pursuing my Bachelors in **Computer Science & Engineering.**
 
-Few words that defines me are **Tenacious**, **Positive** and **Creative**.
+🧑  Few words that defines me are **Tenacious**, **Positive** and **Creative**.
+
+🎸 Enthuastic about learning new technology.
+
+📚 I also love to read books, sketching and sports.
 
 
 ## 🔗 Links
@@ -34,8 +34,8 @@ Few words that defines me are **Tenacious**, **Positive** and **Creative**.
 <img alt="Python" width="40px" src="./image/Python.svg"/>  
 </div>
 
-## :spades: Status
-- Open for intern or collaboration on any project work.
+## ♠️ Status
+- I enjoy contributing to **Open Source Projects**.
 
 
 
