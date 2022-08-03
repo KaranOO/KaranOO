@@ -13,15 +13,15 @@ Few words that defines me are **Tenacious**, **Positive** and **Creative**.
 
 
 ## 🔗 Links
-[![website](./image/Instagram.svg)](https://www.instagram.com/karan.negi22/)
+[![Instagram](./image/Instagram.svg)](https://www.instagram.com/karan.negi22/)
 &nbsp;
-[![website](./image/Linkedin.svg)](https://www.linkedin.com/in/karan-negi-959969224/) 
+[![Linkdin](./image/Linkedin.svg)](https://www.linkedin.com/in/karan-negi-959969224/) 
 &nbsp;
-[![website](./image/Telegram.svg)](https://telegram.me/Knegi_4143) 
+[![Telegram](./image/Telegram.svg)](https://telegram.me/Knegi_4143) 
 &nbsp;
-[![website](./image/Gmail.svg)](mailto:knegi4143@gmail.com) 
+[![Gmail](./image/Gmail.svg)](mailto:knegi4143@gmail.com) 
 &nbsp;
-[![website](./image/discord.svg)](https://discord.com/channels/KR37#2902) 
+[![Discord](./image/discord.svg)](https://discord.com/channels/KR37#2902) 
 
 ## 🛠 Skills
 <div align="left">
