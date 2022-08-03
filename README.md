@@ -31,7 +31,8 @@ Welcome to my profile.
 <img alt="Git" width="40px" src="./image/Git.svg" style="padding-right:15px;" />
 <img alt="C" width="40px" src="./image/C.svg" style="padding-right:15px;"/>
 <img alt="Cpp" width="40px" src="./image/cpp.svg" style="padding-right:15px;"/>
-<img alt="Python" width="40px" src="./image/Python.svg"/>  
+<img alt="Python" width="40px" src="./image/Python.svg" style="padding-right:15px;"/>  
+<img alt="Canva" width="40px" src="./image/canva.svg" style="padding-right:15px;"/>
 </div>
 
 ## ♠️ Status
