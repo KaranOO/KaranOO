@@ -32,8 +32,9 @@ Welcome to my profile.
 <img alt="C" width="40px" src="./image/C.svg" style="padding-right:15px;"/>
 <img alt="Cpp" width="40px" src="./image/cpp.svg" style="padding-right:15px;"/>
 <img alt="Python" width="40px" src="./image/Python.svg" style="padding-right:15px;"/>  
+<img alt="C-sharp" width="40px" src="./image/c-sharp.svg" style="padding-right:15px;"/>
 <img alt="Canva" width="40px" src="./image/Canva.svg" style="padding-right:15px;"/>
- <img alt="LMMS" width="40px" src="./image/LMMS.svg" style="padding-right:15px;"/>
+<img alt="LMMS" width="40px" src="./image/LMMS.svg" style="padding-right:15px;"/>
 </div>
 
 ## ♠️ Status
